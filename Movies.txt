@@ -1,0 +1,61 @@
+Title: Get Out
+Genre: Horror
+Director Name: Jordan Peele
+Studio: Blumhouse
+Year: 2017
+
+Title: Inside Out
+Genre: Animation
+Director Name: Pete Docter
+Director Name: Ronnie del Carmen
+Studio: Disney
+Year: 2015
+
+Title: Inception
+Genre: Fiction
+Director Name: Christopher Nolan
+Studio: Warner Bros
+Year: 2010
+
+Title: Parasite
+Genre: Drama
+Director Name: Bong Joon-ho
+Studio: CJ Entertainment
+Year: 2019
+
+Title: The Avengers
+Genre: Action
+Director Name: Joss Whedon
+Studio: Marvel Studios
+Year: 2012
+
+Title: Zootopia
+Genre: Animation
+Director Name: Byron Howard
+Director Name: Rich Moore
+Studio: Disney
+Year: 2016
+
+Title: Joker
+Genre: Drama
+Director Name: Todd Phillips
+Studio: Warner Bros
+Year: 2019
+
+Title: Toy Story
+Genre: Animation
+Director Name: John Lasseter
+Studio: Pixar
+Year: 1995
+
+Title: The Conjuring
+Genre: Horror
+Director Name: James Wan
+Studio: New Line Cinema
+Year: 2013
+
+Title: The Hangover
+Genre: Comedy
+Director Name: Todd Phillips
+Studio: Legendary Pictures
+Year: 2009
