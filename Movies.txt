@@ -1,61 +1,74 @@
-Title: Get Out
-Genre: Horror
-Director Name: Jordan Peele
-Studio: Blumhouse
-Year: 2017
-
-Title: Inside Out
-Genre: Animation
-Director Name: Pete Docter
-Director Name: Ronnie del Carmen
-Studio: Disney
-Year: 2015
-
-Title: Inception
-Genre: Fiction
-Director Name: Christopher Nolan
-Studio: Warner Bros
-Year: 2010
-
-Title: Parasite
-Genre: Drama
-Director Name: Bong Joon-ho
-Studio: CJ Entertainment
-Year: 2019
-
-Title: The Avengers
+Title: Edge of Tomorrow
 Genre: Action
-Director Name: Joss Whedon
-Studio: Marvel Studios
-Year: 2012
+Director Name: Doug Liman
+Studio: Warner Bros.
+Year: 2014
 
-Title: Zootopia
+Title: Spirited Away
 Genre: Animation
-Director Name: Byron Howard
-Director Name: Rich Moore
-Studio: Disney
+Director Name: Hayao Miyazaki
+Director Name: Toshio Suzuki
+Studio: Studio Ghibli
+Year: 2001
+
+Title: The Grand Heist
+Genre: Comedy
+Director Name: Jane Park
+Director Name: Omar Al-Sayegh
+Studio: Independent Filmworks
+Year: 2018
+
+Title: Moonlit Sonata
+Genre: Drama
+Director Name: Aisha Khan
+Studio: Horizon Pictures
+Year: 2020
+
+Title: Night Whispers
+Genre: Horror
+Director Name: Miguel Santos
+Studio: Black Lantern Productions
 Year: 2016
 
-Title: Joker
-Genre: Drama
-Director Name: Todd Phillips
-Studio: Warner Bros
-Year: 2019
+Title: Cyberfall
+Genre: Fiction
+Director Name: Lena Zhao
+Studio: Neon Forge
+Year: 2022
 
-Title: Toy Story
+Title: Hidden Fortress
+Genre: Action
+Director Name: Akira Kurosawa
+Studio: Toho
+Year: 1958
+
+Title: Paper Planes
 Genre: Animation
-Director Name: John Lasseter
-Studio: Pixar
-Year: 1995
-
-Title: The Conjuring
-Genre: Horror
-Director Name: James Wan
-Studio: New Line Cinema
+Director Name: Tom Harper
+Studio: Blue Sky Studios
 Year: 2013
 
-Title: The Hangover
+Title: Small Town Café
+Genre: Drama
+Director Name: Maria Lopez
+Director Name: Daniel Cruz
+Studio: Lakeside Media
+Year: 2017
+
+Title: Midnight Prank
 Genre: Comedy
-Director Name: Todd Phillips
-Studio: Legendary Pictures
-Year: 2009
+Director Name: Kevin O'Reilly
+Studio: Silver Spoon Entertainment
+Year: 2015
+
+Title: The Silence Between
+Genre: Horror
+Director Name: Noor Al-Hassan
+Studio: Dune Films
+Year: 2019
+
+Title: Stellar Voyage
+Genre: Fiction
+Director Name: Priya Menon
+Studio: Odyssey Studios
+Year: 2021
